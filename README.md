@@ -86,14 +86,14 @@
 ---
 
 ### 📊 Real-Time Polling Website
-> **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/real-time-polling)
+> **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/Live-Poll)
 
 - Live polling platform with **Socket.io** for real-time vote updates
 - Admin dashboard with poll management and detailed analytics
 - Unlimited poll options with interactive feedback system
 - **Tech Stack:** Node.js, Express.js, MongoDB, Socket.io
 
-**[📂 Source Code](https://github.com/vaibhav-katkar-dev/real-time-polling)**
+**[📂 Source Code](https://github.com/vaibhav-katkar-dev/Live-Poll)**
 
 ---
 

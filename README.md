@@ -61,7 +61,7 @@
 ---
 
 ### 📍 StoreSight - Heatmap Store Analysis Platform
-> **Hackathon Project:** TEKRON 2025 (Blinkit Sponsored) | **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/storesight)
+> **Hackathon Project:** TEKRON 2025 (Blinkit Sponsored) | **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/techpanthers)
 
 **Role:** Team Leader - Tech Panthers
 - Location analytics platform using **StreetMaps API** for optimal store placement
@@ -69,7 +69,7 @@
 - Real-time data visualization for business decision-making
 - **Tech Stack:** Node.js, Express.js, StreetMaps API, JavaScript, HTML/CSS
 
-**[📂 Source Code](https://github.com/vaibhav-katkar-dev/storesight)**
+**[📂 Source Code](https://github.com/vaibhav-katkar-dev/techpanthers)**
 
 ---
 
@@ -97,16 +97,19 @@
 
 ---
 
-### 🌤️ Weather & News Dashboard
-> **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/weather-news-dashboard)
+### 📍 AI Disaster Relief System
+> **Hackathon Project:** Nirman At MIT 2025 (GDG Sponsored) | **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/ai-disaster-relief-system)
 
-- Integrated **Weather API** for real-time weather data and forecasts
-- **News API** integration for latest news articles and headlines
-- Location-based weather updates with 7-day forecast
-- Responsive design with clean UI/UX
-- **Tech Stack:** JavaScript, Node.js, Express.js, Weather API, News API
+**Role:** Team Leader - Tech Panthers
+- AI-Powered Analysis: Utilizes Google Gemini API to analyze incoming disaster reports, categorize them by severity, and detect potential risks.
+- Smart Risk Zone Detection: Identifies high-risk zones based on reported data and historical patterns to alert nearby users.
+- Emergency Request System: A streamlined interface for victims to request immediate help (food, medical, rescue).
+- Volunteer Coordination: Allows individuals and organizations to offer help, matching them with innovative needs in real-time.
+- Interactive Dashboard: A central command center for administrators to view live reports, resource distribution, and active emergencies.
+- Location Intelligence: Integrates mapping for visualizing disaster zones and relief camps (simulated/integrated).
 
-**[📂 Source Code](https://github.com/vaibhav-katkar-dev/weather-news-dashboard)**
+**[📂 Source Code](https://github.com/vaibhav-katkar-dev/ai-disaster-relief-system)**
+
 
 ---
 

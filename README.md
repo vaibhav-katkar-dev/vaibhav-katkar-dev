@@ -34,7 +34,7 @@
 ## 🚀 Featured Projects
 
 ### 🌟 [Form2Chat](https://form2chat.me) - SaaS Lead Management Platform
-> **Status:** 🟢 Live in Production | **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/form2chat)
+> **Status:** 🟢 Live in Production | **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/form2chat.me)
 
 **Real-world impact:** Serving active business users with zero-configuration WhatsApp integration
 - Built full-stack SaaS platform for instant form submission notifications

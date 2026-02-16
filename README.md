@@ -74,14 +74,14 @@
 ---
 
 ### 💰 Budget Planner AI Website
-> **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/budget-planner-ai)
+> **GitHub:** [View Repository](https://github.com/vaibhav-katkar-dev/Budget-Planner-With-Ai)
 
 - Budget management platform with **OpenAI API** for personalized financial recommendations
 - Secure user authentication using bcrypt with session management
 - Category-wise expense tracking and analytics dashboard
 - **Tech Stack:** Node.js, Express.js, MongoDB, OpenAI API
 
-**[📂 Source Code](https://github.com/vaibhav-katkar-dev/budget-planner-ai)**
+**[📂 Source Code](https://github.com/vaibhav-katkar-dev/Budget-Planner-With-Ai)**
 
 ---
 
